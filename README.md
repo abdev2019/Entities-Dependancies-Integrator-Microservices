@@ -10,5 +10,10 @@ Real Estate Agency Application using Microservices with Spring Boot
   - Autowiring the Integrator of Entities (IEntityIntegration)
   
   Example : 
-  https://github.com/abdev2019/Real-Estate-Agency-Application-using-Microservices-with-Spring-Boot-Part-1-/blob/master/AppUser%20Entity.PNG
+  
+  ![alt text](https://raw.githubusercontent.com/abdev2019/Real-Estate-Agency-Application-using-Microservices-with-Spring-Boot-Part-1-/master/AppUser%20Entity.PNG)
+  
+  ![alt text](https://raw.githubusercontent.com/abdev2019/Real-Estate-Agency-Application-using-Microservices-with-Spring-Boot-Part-1-/master/Offer%20Entity.PNG)
+  
+  ![alt text](https://raw.githubusercontent.com/abdev2019/Real-Estate-Agency-Application-using-Microservices-with-Spring-Boot-Part-1-/master/Result.PNG)
   
