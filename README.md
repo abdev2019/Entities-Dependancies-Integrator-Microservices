@@ -13,12 +13,12 @@ Instead of using @Feign annotation or RestTemplate configuration :
   Example : 
   AppUser Entity :
   ![alt text](https://raw.githubusercontent.com/abdev2019/Real-Estate-Agency-Application-using-Microservices-with-Spring-Boot-Part-1-/master/AppUser%20Entity.PNG)
-  
-  
+  .
+  .
   Offer Entity :
   ![alt text](https://raw.githubusercontent.com/abdev2019/Real-Estate-Agency-Application-using-Microservices-with-Spring-Boot-Part-1-/master/Offer%20Entity.PNG)
-  
-  
+  .
+  .
   Result :
   ![alt text](https://raw.githubusercontent.com/abdev2019/Real-Estate-Agency-Application-using-Microservices-with-Spring-Boot-Part-1-/master/Result.PNG)
   
